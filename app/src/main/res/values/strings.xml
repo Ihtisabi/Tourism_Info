@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sports</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Bandung Tourism</string>
+    <string name="detail_fragment_label">Place Info</string>
+
+    <string name="kawahputih">Kawah Putih</string>
+    <string name="loc_kawahputih">Ciwidey</string>
+    <string name="sub_kawahputih">Danau kawah vulkanik yang terkenal dengan warna air yang putih kebiruan, suasana unik dan sejuk.</string>
+    <string name="desc_kawahputih"><p>Kawah Putih merupakan destinasi wisata alam yang terletak di kawasan Ciwidey, sekitar 50 km dari pusat kota Bandung. Kawah ini adalah danau vulkanik yang terbentuk akibat letusan Gunung Patuha dan memiliki keunikan pada airnya yang berwarna putih kehijauan hingga kebiruan. Perubahan warna air ini bergantung pada kondisi cuaca dan kandungan belerang di dalamnya, menciptakan pemandangan yang sangat memukau dan atmosfer yang misterius.</p>
+
+<p>Dikelilingi oleh hutan pegunungan yang lebat, Kawah Putih memiliki udara yang sejuk, bahkan cenderung dingin, dengan suhu antara 8-22 derajat Celsius. Di sini, pengunjung dapat menikmati keindahan kawah dengan aman dari area yang telah dibangun khusus untuk wisatawan, seperti jembatan kayu di tepi danau yang sering dijadikan tempat berfoto. Kawah Putih juga populer sebagai lokasi pre-wedding karena pemandangannya yang dramatis dan fotogenik. Tersedia area parkir yang luas, serta fasilitas seperti warung makan dan toilet, menjadikan Kawah Putih destinasi yang nyaman untuk dikunjungi.</p></string>
+
+    <string name="alun_alun">Alun-Alun Kota Bandung</string>
+    <string name="loc_alun">Jl. Asia Afrika</string>
+    <string name="sub_alun">Taman kota yang ramai, dilengkapi dengan rumput sintetis dan masjid raya; tempat santai untuk keluarga.</string>
+    <string name="desc_alun"><p>Alun-Alun Kota Bandung adalah salah satu tempat wisata paling ikonik di pusat kota, yang dikenal sebagai ruang terbuka hijau yang ramah keluarga. Terletak di Jl. Asia Afrika dan dikelilingi oleh bangunan bersejarah, alun-alun ini dikelola dengan sangat baik, dilengkapi dengan rumput sintetis yang luas di mana pengunjung bisa duduk, bermain, atau bersantai. Area ini sangat cocok untuk anak-anak bermain dengan aman dan untuk pengunjung yang ingin beristirahat sejenak dari kesibukan kota.</p>
+
+<p>Selain itu, Alun-Alun Kota Bandung bersebelahan dengan Masjid Raya Bandung, sehingga pengunjung juga bisa beribadah atau sekadar mengagumi arsitektur masjid yang megah. Lokasinya yang strategis di pusat kota membuatnya mudah diakses, dan terdapat banyak pilihan kuliner di sekitar alun-alun yang menyajikan berbagai makanan khas Bandung. Pada malam hari, Alun-Alun Kota Bandung kerap ramai oleh penduduk lokal maupun wisatawan yang ingin menikmati suasana malam di tengah kota. Tidak ada biaya masuk, sehingga tempat ini selalu menjadi favorit banyak orang dari berbagai kalangan.</p></string>
+
+    <string name="farmhouse">Farm House Lembang</string>
+    <string name="loc_farmhoyse">Lembang</string>
+    <string name="sub_farmhoyse">Tempat wisata dengan konsep Eropa, lengkap dengan bangunan ala pedesaan Eropa dan hewan ternak.</string>
+    <string name="desc_farmhoyse"><p>Farm House Lembang adalah destinasi wisata keluarga di kawasan Lembang yang menawarkan suasana ala Eropa. Terinspirasi oleh pedesaan Eropa, Farm House memberikan pengalaman unik di mana pengunjung dapat menikmati pemandangan yang indah, berfoto di depan bangunan khas Eropa, dan bahkan mengenakan kostum tradisional Eropa yang bisa disewa di lokasi. Tempat ini memiliki berbagai spot foto menarik, seperti rumah hobbit dan taman bunga yang terawat dengan baik.</p>
+
+<p>Selain itu, Farm House memiliki peternakan mini di mana pengunjung bisa berinteraksi dengan hewan-hewan seperti domba, kelinci, dan kuda poni, yang menjadikannya tempat favorit anak-anak. Ada pula kios yang menjual makanan ringan dan oleh-oleh khas Bandung. Tiket masuk ke Farm House cukup terjangkau dan bisa ditukar dengan segelas susu murni atau sosis bakar. Dengan konsep yang menarik dan fasilitas yang lengkap, Farm House Lembang adalah tempat yang cocok untuk menikmati suasana ala pedesaan Eropa tanpa perlu keluar negeri.</p></string>
+
+
+    <string name="rancaupas">Ranca Upas</string>
+    <string name="loc_rancaupas">Rancabali</string>
+    <string name="sub_rancaupas">Area perkemahan dengan penangkaran rusa, pemandian air panas, dan pemandangan alam yang asri.</string>
+    <string name="desc_lorem">Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+    Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum </string>
+
+
+    <string name="bukitmoko">Bukit Moko</string>
+    <string name="loc_bukit">Cimenyan</string>
+    <string name="sub_bukit">Tempat populer untuk melihat pemandangan kota Bandung dari ketinggian, terutama indah saat malam.</string>
+
+
+
+    <string name="tamanfilm">Taman Film Bandung</string>
+    <string name="loc_taman">Tamansari</string>
+    <string name="sub_taman">Taman dengan layar besar untuk menonton film, sering mengadakan pemutaran film gratis.</string>
+
+
+
+    <string name="dusunbambu">Dusun Bambu</string>
+    <string name="loc_dusun">Cisarua</string>
+    <string name="sub_dusun">Taman rekreasi keluarga dengan pemandangan alam yang indah, danau, restoran, dan spot foto.</string>
+
+
+    <string name="curug">Curug Cimahi (Air Terjun Pelangi)</string>
+    <string name="loc_curug">Cisarua</string>
+    <string name="sub_curug">Air terjun yang dihiasi lampu warna-warni saat malam, menciptakan efek pelangi yang cantik.</string>
+
+
+
+    <string name="free_caption">Free</string>
+
+    <string name="back_button">Back</string>
+</resources>
